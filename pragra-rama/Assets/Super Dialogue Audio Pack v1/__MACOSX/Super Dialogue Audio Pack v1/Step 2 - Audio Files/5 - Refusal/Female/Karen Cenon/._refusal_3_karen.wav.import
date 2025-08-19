@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://c6l1wicxqak8o"
+path="res://.godot/imported/._refusal_3_karen.wav-3f9f760b83fb2424c9fee3363c9edb5c.sample"
+
+[deps]
+
+source_file="res://Assets/Super Dialogue Audio Pack v1/__MACOSX/Super Dialogue Audio Pack v1/Step 2 - Audio Files/5 - Refusal/Female/Karen Cenon/._refusal_3_karen.wav"
+dest_files=["res://.godot/imported/._refusal_3_karen.wav-3f9f760b83fb2424c9fee3363c9edb5c.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

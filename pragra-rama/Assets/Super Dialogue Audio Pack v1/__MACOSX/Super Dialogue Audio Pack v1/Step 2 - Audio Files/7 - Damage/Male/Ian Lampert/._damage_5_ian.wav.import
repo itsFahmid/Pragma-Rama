@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://s676g3kqbm6f"
+path="res://.godot/imported/._damage_5_ian.wav-fc8ed0942f5b9932e079877d1c3f9597.sample"
+
+[deps]
+
+source_file="res://Assets/Super Dialogue Audio Pack v1/__MACOSX/Super Dialogue Audio Pack v1/Step 2 - Audio Files/7 - Damage/Male/Ian Lampert/._damage_5_ian.wav"
+dest_files=["res://.godot/imported/._damage_5_ian.wav-fc8ed0942f5b9932e079877d1c3f9597.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

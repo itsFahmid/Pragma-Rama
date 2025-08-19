@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cjylym5p4taqv"
+path="res://.godot/imported/confirmation_3_alex.wav-2ff1369bca8d09bae8122f1e51453a4e.sample"
+
+[deps]
+
+source_file="res://Assets/Super Dialogue Audio Pack v1/Super Dialogue Audio Pack v1/Step 2 - Audio Files/2 - Confirmation/Male/Alex Brodie/confirmation_3_alex.wav"
+dest_files=["res://.godot/imported/confirmation_3_alex.wav-2ff1369bca8d09bae8122f1e51453a4e.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

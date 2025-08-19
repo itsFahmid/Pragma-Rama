@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bu6f6s7ltunun"
+path="res://.godot/imported/._completion_6_alex.wav-0d6f6cf33cdff1aed14790a78151c930.sample"
+
+[deps]
+
+source_file="res://Assets/Super Dialogue Audio Pack v1/__MACOSX/Super Dialogue Audio Pack v1/Step 2 - Audio Files/1 - Completion/Male/Alex Brodie/._completion_6_alex.wav"
+dest_files=["res://.godot/imported/._completion_6_alex.wav-0d6f6cf33cdff1aed14790a78151c930.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

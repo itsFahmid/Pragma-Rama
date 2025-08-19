@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://be51qe45bhe2m"
+path="res://.godot/imported/._grunting_8_alex.wav-29b850fc054ec7f2acfc02e9eda3844a.sample"
+
+[deps]
+
+source_file="res://Assets/Super Dialogue Audio Pack v1/__MACOSX/Super Dialogue Audio Pack v1/Step 2 - Audio Files/9 - Grunting/Male/Alex Brodie/._grunting_8_alex.wav"
+dest_files=["res://.godot/imported/._grunting_8_alex.wav-29b850fc054ec7f2acfc02e9eda3844a.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2
