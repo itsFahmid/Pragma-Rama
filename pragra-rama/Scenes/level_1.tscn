@@ -1,0 +1,16 @@
+[gd_scene load_steps=3 format=3 uid="uid://c663rtv1ufyoo"]
+
+[ext_resource type="PackedScene" uid="uid://bpy8jdor3l1lp" path="res://Scenes/World Boundary.tscn" id="1_8ffim"]
+[ext_resource type="PackedScene" uid="uid://ddkht7sygly5a" path="res://Scenes/Hero.tscn" id="2_xfk5q"]
+
+[node name="Level-1" type="Node2D"]
+
+[node name="World_Boundary" parent="." instance=ExtResource("1_8ffim")]
+
+[node name="CharacterBody2D" parent="." instance=ExtResource("2_xfk5q")]
+position = Vector2(15, -163)
+
+[node name="Camera2D" type="Camera2D" parent="CharacterBody2D"]
+zoom = Vector2(2, 2)
+limit_top = -300
+limit_bottom = 300
